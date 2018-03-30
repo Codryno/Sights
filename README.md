@@ -1,2 +1,2 @@
 # Sights
-Beuatfiull
+BEAUTIFULL App
