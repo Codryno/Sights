@@ -16,3 +16,29 @@ body{
 
 
 }
+.containerTitle{
+  padding: 50px 0;
+
+
+
+}
+.title{
+
+  padding: 10px 50px;
+}
+
+
+
+.left{
+
+float-left: 250pc;
+
+}
+
+.right{
+
+
+
+float-right: 250px;
+
+}
