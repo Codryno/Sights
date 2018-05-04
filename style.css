@@ -28,17 +28,8 @@ body{
 }
 
 
+.Button{
 
-.left{
-
-float-left: 250pc;
-
-}
-
-.right{
-
-
-
-float-right: 250px;
+display: inline-block;
 
 }
